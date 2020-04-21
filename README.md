@@ -3,7 +3,7 @@
 ## Authors
 * Christopher Ellis
 * Carlos Hernandez
-* Erik Huynh
+* [Erik Huynh](https://e-huynh.github.io/portfolio-gram/)
 
 ## Description
 
